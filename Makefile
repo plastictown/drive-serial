@@ -1,5 +1,5 @@
 CC=gcc
-CCFLAGS=-Wall -O2 -I.
+CCFLAGS=-Wall -O2 -pipe -I.
 APPNAME=app
 LINK=gcc
 LINKFLAGS=-lrt
